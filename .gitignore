@@ -10,6 +10,7 @@
 
 # production
 /build
+RREADME.md
 
 # misc
 .DS_Store
